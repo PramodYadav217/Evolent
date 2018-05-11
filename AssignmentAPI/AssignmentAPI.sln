@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentAPI", "AssignmentAPI\AssignmentAPI.csproj", "{2F4C3401-7B95-4145-97F8-535E8CF6F196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentAPIData", "AssignmentAPIData\AssignmentAPIData.csproj", "{192B7F1F-AAE5-4992-8809-C1ECE4D5A08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssingmentAPIEntities", "AssingmentAPIEntities\AssingmentAPIEntities.csproj", "{B8F90392-0C33-43D7-A6AD-3053D2C6B791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F4C3401-7B95-4145-97F8-535E8CF6F196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4C3401-7B95-4145-97F8-535E8CF6F196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4C3401-7B95-4145-97F8-535E8CF6F196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4C3401-7B95-4145-97F8-535E8CF6F196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192B7F1F-AAE5-4992-8809-C1ECE4D5A08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192B7F1F-AAE5-4992-8809-C1ECE4D5A08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192B7F1F-AAE5-4992-8809-C1ECE4D5A08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192B7F1F-AAE5-4992-8809-C1ECE4D5A08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F90392-0C33-43D7-A6AD-3053D2C6B791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F90392-0C33-43D7-A6AD-3053D2C6B791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F90392-0C33-43D7-A6AD-3053D2C6B791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F90392-0C33-43D7-A6AD-3053D2C6B791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

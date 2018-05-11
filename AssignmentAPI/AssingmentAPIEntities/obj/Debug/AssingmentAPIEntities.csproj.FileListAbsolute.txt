@@ -1,0 +1,4 @@
+D:\Projects\Evolent\NEw\AssignmentAPI\AssingmentAPIEntities\bin\Debug\AssingmentAPIEntities.dll
+D:\Projects\Evolent\NEw\AssignmentAPI\AssingmentAPIEntities\bin\Debug\AssingmentAPIEntities.pdb
+D:\Projects\Evolent\NEw\AssignmentAPI\AssingmentAPIEntities\obj\Debug\AssingmentAPIEntities.dll
+D:\Projects\Evolent\NEw\AssignmentAPI\AssingmentAPIEntities\obj\Debug\AssingmentAPIEntities.pdb

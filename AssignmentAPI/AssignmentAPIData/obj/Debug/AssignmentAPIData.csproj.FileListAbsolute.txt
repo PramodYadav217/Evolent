@@ -1,0 +1,19 @@
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\AssignmentAPIData.dll.config
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\AssignmentAPIData.dll
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\AssignmentAPIData.pdb
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.dll
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.xml
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\obj\Debug\AssignmentAPIData.dll
+D:\Projects\Evolent\NEw\AssignmentAPI\AssignmentAPIData\obj\Debug\AssignmentAPIData.pdb
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\AssignmentAPIData.dll.config
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\AssignmentAPIData.dll
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\AssignmentAPIData.pdb
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.dll
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.SqlServer.dll
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.xml
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\bin\Debug\EntityFramework.SqlServer.xml
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\obj\Debug\AssignmentAPIData.csprojResolveAssemblyReference.cache
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\obj\Debug\AssignmentAPIData.dll
+D:\PramodY_Workspace\TestProjects\Web Api Demo\NEw\AssignmentAPI\AssignmentAPIData\obj\Debug\AssignmentAPIData.pdb
